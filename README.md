@@ -39,6 +39,6 @@ finally this section to Contact Us
 
 ## dependencies
 
-### Font Awesome
-### Normaliz
-### Google Fonts
+* Font Awesome
+* Normaliz
+* Google Fonts
